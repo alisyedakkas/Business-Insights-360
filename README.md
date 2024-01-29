@@ -20,7 +20,8 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 ### Key Achievements
 1. Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2. Created benchmark against last year and target goals for budgeting.
-![Finance View](https://github.com/alisyedakkas/AtliQ_Sales_Insigths_PowerBi/blob/main/Photos/AIMS.jpg](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Finance%20View.png)
+   
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Finance%20View.png)
 
 ## Sales View
 ### Objectives
@@ -30,6 +31,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 1. Created customer and product overall sales performance report and unit economics.
 2. Identified sales trends and track KPIs
 
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Sales%20View.png)
 ## Marketing View
 ### Objectives
 1. Increase brand visibility and customer engagement.
@@ -38,6 +40,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 1. Created region and product wise overall market performance report and unit economics.
 2. Identified market trends and track KPIs
 
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Marketing%20View.png)
 ## Supply Chain View
 ### Objectives
 1. Optimize inventory management and reduce lead times.
@@ -45,6 +48,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 ### Key Achievements
 1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
 
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Supply%20Chain%20View.png)
 ## Executive View
 ### Objectives
 1. Provide an overview of the entire organization's performance.
@@ -53,6 +57,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 1. Developed an executive dashboard for real-time performance monitoring.
 2. Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
 
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Executive%20View.png)
 ## Skills
 ### Power BI Fundamentals
 1. Create Calcualated Columns and DAX Measures
@@ -88,4 +93,4 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 This dashboard answers many business questions based on different scenerio.
 This report can be used to take data driven decision to make AtliQ more profitable.
 
-Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
+### Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
