@@ -20,6 +20,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 ### Key Achievements
 1. Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
 2. Created benchmark against last year and target goals for budgeting.
+![Finance View](https://github.com/alisyedakkas/AtliQ_Sales_Insigths_PowerBi/blob/main/Photos/AIMS.jpg](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Finance%20View.png)
 
 ## Sales View
 ### Objectives
@@ -86,3 +87,5 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 ## Conclusion
 This dashboard answers many business questions based on different scenerio.
 This report can be used to take data driven decision to make AtliQ more profitable.
+
+Special thanks to mentors, Hemanand Vadivel and Dhaval Patel. This project was part of the Power BI course offered by CodeBasis.
