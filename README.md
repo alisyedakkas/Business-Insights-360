@@ -9,6 +9,7 @@ Senior executives of this company have decided to invest in a data analytics pro
 ## Project Overview
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
+![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Home%20Page.png)
 [Live Report Link](https://www.novypro.com/project/atliq-sales-insights-powerbi-dashboard-power-bi)_
 
 [Proect Video Link](https://www.novypro.com/project/atliq-sales-insights-powerbi-dashboard-power-bi)_
