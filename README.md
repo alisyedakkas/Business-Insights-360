@@ -63,7 +63,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 ![Finance View](https://github.com/alisyedakkas/Business-Insights-360/blob/main/Media/Dashboard%20Photos/Executive%20View.png)
 ## Skills
 ### Power BI Fundamentals
-1. Create Calcualated Columns and DAX Measures
+1. Create Calculated Columns and DAX Measures
 2. Data Modelling ,Data Validation Techniques and using KPI Indicators
 3. Use of Bookmark and Conditional Formatting
 4. Page Navigation with Buttons
