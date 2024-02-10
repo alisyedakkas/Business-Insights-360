@@ -14,7 +14,7 @@ This project aims to streamline and optimize various aspects of AtliQ Hardwres b
 
 [Live Report Link](https://www.novypro.com/project/atliq-sales-insights-powerbi-dashboard-power-bi)_
 
-[Proect Video Link](https://www.novypro.com/project/atliq-sales-insights-powerbi-dashboard-power-bi)_
+[Proect Video Link](https://www.youtube.com/embed/7VPdxJDEAcM?si=6-DBfMA-_WKU0o_R)_
 
 ## Finance View
 ### Objectives
